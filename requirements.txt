@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scipy
+networkx
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+jupyter
+tqdm
+
